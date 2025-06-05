@@ -1,4 +1,4 @@
-# TIC-TAC-TOE-GAME
+# TIC-TAC-TOE-GAME By C++
 #include <iostream>
 using namespace std;
 char board[3][3] = {
